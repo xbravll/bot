@@ -5,7 +5,7 @@ const config = {
     TOKEN: 'MTQzNDU3OTIzNzc5MjEyNDk5OA.G6XBeh.lpeNWBs1FSy3Bgeyb1AQkqHaGJMN-PBTKqflQY',
     
     // GitHub Configuration
-    GITHUB_TOKEN: 'Y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', // Personal Access Token dari GitHub
+    GITHUB_TOKEN: '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', // Personal Access Token dari GitHub
     KEYS_GIST_ID: 'aa73df79dfa4d7fdc5811a2c1af71722', // ID dari gist keys database
     HWID_GIST_ID: '808bd8a19c1a6eaa895ddfb4ed84f610', // ID dari gist HWID database
     
