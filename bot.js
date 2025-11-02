@@ -1,16 +1,8 @@
-// ================================================
-// DISCORD KEY + HWID MANAGER (GITHUB GIST VERSION)
-// ================================================
-// Install: npm install discord.js node-fetch
-
 const { Client, GatewayIntentBits, EmbedBuilder, PermissionFlagsBits } = require('discord.js');
 const fetch = require('node-fetch');
 
-// ================================================
-// KONFIGURASI
-// ================================================
 const config = {
-    TOKEN: 'YOUR_DISCORD_BOT_TOKEN',
+    TOKEN: 'MTQzNDU3OTIzNzc5MjEyNDk5OA.G6XBeh.lpeNWBs1FSy3Bgeyb1AQkqHaGJMN-PBTKqflQY',
     
     // GitHub Configuration
     GITHUB_TOKEN: 'Y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', // Personal Access Token dari GitHub
