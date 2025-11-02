@@ -2,7 +2,7 @@ const { Client, GatewayIntentBits, EmbedBuilder, PermissionFlagsBits } = require
 const fetch = require('node-fetch');
 
 const config = {
-    TOKEN: 'MTQzNDU3OTIzNzc5MjEyNDk5OA.G6XBeh.lpeNWBs1FSy3Bgeyb1AQkqHaGJMN-PBTKqflQY',
+    TOKEN: 'MTQzNDU3OTIzNzc5MjEyNDk5OA.GWlHcZ.8YK_JJ0DYbM7YOyzqzdLIBqfCqpsRp17lFGYT4',
     
     // GitHub Configuration
     GITHUB_TOKEN: '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', // Personal Access Token dari GitHub
